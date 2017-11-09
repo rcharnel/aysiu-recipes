@@ -6,7 +6,7 @@
     <string>Downloads latest LockDown Browser Lab
     Be sure to change the institution ID to be your institution's ID, and the hash to be your lab hash.</string>
     <key>Identifier</key>
-    <string>com.github.aysiu.download.LockDownBrowserLab</string>
+    <string>com.github.rcharnel.download.LockDownBrowserLab</string>
     <key>Input</key>
     <dict>
         <key>INSTITUTION_ID</key>
