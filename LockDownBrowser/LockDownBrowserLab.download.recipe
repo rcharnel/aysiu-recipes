@@ -50,17 +50,6 @@
         </dict>
         <dict>
             <key>Processor</key>
-            <string>URLTextSearcher</string>
-            <key>Arguments</key>
-            <dict>
-                <key>url</key>
-                <string>%SEARCH_URL%</string>
-                <key>re_pattern</key>
-                <string>(\&lt;strong\&gt;Version:\&lt;\/strong\&gt; (?P&lt;version&gt;.*?)\&lt;\/span\&gt;)</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>Processor</key>
             <string>URLDownloader</string>
             <key>Arguments</key>
             <dict>
