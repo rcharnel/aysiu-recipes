@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Imports Respondus LockDown Browser Lab into Munki.</string>
     <key>Identifier</key>
-    <string>com.github.aysiu.munki.LockDownBrowserLab</string>
+    <string>com.github.rcharnel.munki.LockDownBrowserLab</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
